@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Hello, World</string>
+    <string name="lbl_main_screen">Hello, World</string>
+    <string name="lbl_btn_main_screen">SURPRISE!</string>
+    <string name="lbl_toast_surpresa">Welcome, master!</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="lbl_main">
+        <item name="android:background">@color/metalic_gold</item>
+    </style>
+</resources>

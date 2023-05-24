@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+
+    <color name="white">#FFFFFFFF</color>
+    <color name="metalic_gold_light_900">#F9F4E4</color>
+    <color name="metalic_gold_light_800">#F8F1DD</color>
+    <color name="metalic_gold_light_700">#F6EED5</color>
+    <color name="metalic_gold_light_600">#F4EACA</color>
+    <color name="metalic_gold_light_500">#F1E5BD</color>
+    <color name="metalic_gold_light_400">#EDDEAD</color>
+    <color name="metalic_gold_light_300">#E9D699</color>
+    <color name="metalic_gold_light_200">#E4CC7F</color>
+    <color name="metalic_gold_light_100">#DDBF5F</color>
+    <color name="metalic_gold">#D4AF37</color>
+    <color name="metalic_gold_dark_100">#AA8C2C</color>
+    <color name="metalic_gold_dark_200">#887023</color>
+    <color name="metalic_gold_dark_300">#6D5A1C</color>
+    <color name="metalic_gold_dark_400">#574816</color>
+    <color name="metalic_gold_dark_500">#463A12</color>
+    <color name="metalic_gold_dark_600">#372E0E</color>
+    <color name="metalic_gold_dark_700">#2D250B</color>
+    <color name="metalic_gold_dark_800">#241E09</color>
+    <color name="metalic_gold_dark_900">#1D1807</color>
+    <color name="black">#FF000000</color>
+
+</resources>
